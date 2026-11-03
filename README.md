@@ -48,6 +48,9 @@ sudo port install ffmpeg
 
 This is a simple Video corruptor based off Python and FFmpeg.
 
+EPILEPSY WARNING!!!!!!!!!!
+People with photo sensitivity shall not use this!!!
+
 To run it :
 ```
 python pyvidcorruptor.py
