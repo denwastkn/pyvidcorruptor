@@ -29,7 +29,7 @@ sudo pacman -S ffmpeg
 
 ### Alpine
 ```
-apk add ffmpeg
+sudo apk add ffmpeg
 ```
 
 ### MacOS
