@@ -32,6 +32,24 @@ sudo pacman -S ffmpeg
 sudo apk add ffmpeg
 ```
 
+## Your.... Router?? (OpenWRT)
+
+1. SSH into the router
+
+2. Execute :
+
+Latest :
+
+```
+apk add ffmpeg python3
+```
+
+Older :
+
+```
+opkg install ffmpeg python3
+```
+
 ### MacOS
 ```
 brew install ffmpeg
